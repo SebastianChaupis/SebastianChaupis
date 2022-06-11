@@ -3,5 +3,5 @@
 
 								Hello - Hola - 你好
 
-:shipit: Hi my name is Sebastian ! I am a knowledgeable fullstack developer and programming lover
+:shipit: Hi my name is Sebastian ! I am a fullstack developer and programming lover
 
